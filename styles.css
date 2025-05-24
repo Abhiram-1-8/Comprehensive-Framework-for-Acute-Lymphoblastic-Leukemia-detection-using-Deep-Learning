@@ -1,0 +1,162 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #b3e0ff, #99ffcc);
+    text-align: center;
+    padding: 50px;
+}
+
+/* Container for Forms */
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 400px;
+    width: 90%;
+}
+
+/* Headings */
+h2 {
+    color: #0073e6;
+}
+
+/* Form Inputs */
+form input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #0073e6;
+    border-radius: 5px;
+}
+
+/* Buttons */
+button {
+    background: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #005bb5;
+}
+
+/* File Upload Input */
+input[type="file"] {
+    border: 1px solid #0073e6;
+    padding: 8px;
+    background: #e6f2ff;
+}
+
+/* Logout Button */
+.logout-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #ff6666;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.logout-btn:hover {
+    background: #cc0000;
+}
+
+/* Links */
+a {
+    display: block;
+    margin-top: 10px;
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #b3e0ff, #99ffcc);
+    text-align: center;
+    padding: 50px;
+}
+
+/* Container for Forms */
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 400px;
+    width: 90%;
+}
+
+/* Headings */
+h2 {
+    color: #0073e6;
+}
+
+/* Form Inputs */
+form input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #0073e6;
+    border-radius: 5px;
+}
+
+/* Buttons */
+button {
+    background: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #005bb5;
+}
+
+/* File Upload Input */
+input[type="file"] {
+    border: 1px solid #0073e6;
+    padding: 8px;
+    background: #e6f2ff;
+}
+
+/* Logout Button */
+.logout-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #ff6666;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.logout-btn:hover {
+    background: #cc0000;
+}
+
+/* Links */
+a {
+    display: block;
+    margin-top: 10px;
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
